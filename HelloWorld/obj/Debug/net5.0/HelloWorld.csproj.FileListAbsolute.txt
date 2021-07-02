@@ -1,0 +1,16 @@
+/home/timur/dotnet_development/HelloWorld/bin/Debug/net5.0/HelloWorld
+/home/timur/dotnet_development/HelloWorld/bin/Debug/net5.0/HelloWorld.deps.json
+/home/timur/dotnet_development/HelloWorld/bin/Debug/net5.0/HelloWorld.runtimeconfig.json
+/home/timur/dotnet_development/HelloWorld/bin/Debug/net5.0/HelloWorld.runtimeconfig.dev.json
+/home/timur/dotnet_development/HelloWorld/bin/Debug/net5.0/HelloWorld.dll
+/home/timur/dotnet_development/HelloWorld/bin/Debug/net5.0/ref/HelloWorld.dll
+/home/timur/dotnet_development/HelloWorld/bin/Debug/net5.0/HelloWorld.pdb
+/home/timur/dotnet_development/HelloWorld/obj/Debug/net5.0/HelloWorld.csproj.AssemblyReference.cache
+/home/timur/dotnet_development/HelloWorld/obj/Debug/net5.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/timur/dotnet_development/HelloWorld/obj/Debug/net5.0/HelloWorld.AssemblyInfoInputs.cache
+/home/timur/dotnet_development/HelloWorld/obj/Debug/net5.0/HelloWorld.AssemblyInfo.cs
+/home/timur/dotnet_development/HelloWorld/obj/Debug/net5.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/timur/dotnet_development/HelloWorld/obj/Debug/net5.0/HelloWorld.dll
+/home/timur/dotnet_development/HelloWorld/obj/Debug/net5.0/ref/HelloWorld.dll
+/home/timur/dotnet_development/HelloWorld/obj/Debug/net5.0/HelloWorld.pdb
+/home/timur/dotnet_development/HelloWorld/obj/Debug/net5.0/HelloWorld.genruntimeconfig.cache
